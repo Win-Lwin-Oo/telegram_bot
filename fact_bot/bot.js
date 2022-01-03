@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const bot = new Telegraf('5023632324:AAGjGs5eB1d4DAHJUEO-kChHDN9Dc1J2Alw');
+const bot = new Telegraf('YOUR_TELEGRAM_TOKEN');
 const axios = require('axios');
 
 // in this fact_bot test
